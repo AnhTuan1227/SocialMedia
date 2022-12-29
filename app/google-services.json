@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5002479546",
+    "project_id": "catchy-b5017",
+    "storage_bucket": "catchy-b5017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5002479546:android:8e75310ff34f14da63bf83",
+        "android_client_info": {
+          "package_name": "com.tuan.catchy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5002479546-b1i13r17sf8tq0dqb6hj27tkus5pdqdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuan.catchy",
+            "certificate_hash": "706aa3077833e95e9837aeeb8f3494ff85cf92d2"
+          }
+        },
+        {
+          "client_id": "5002479546-nk2c7s6152tnbrn3ftd0hk7pmoipdck4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblxzWiVzT-NwPrOh-GHZJ591t2DnwmSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5002479546-nk2c7s6152tnbrn3ftd0hk7pmoipdck4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
